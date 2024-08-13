@@ -1,6 +1,7 @@
 ---
 title: "[Bacteria Tracker](https://github.com/tz545/bacteria-tracker)"
-excerpt: "A human-in-the-loop approach designed for small-scale applications of cell detection<br/><img src='../images/bacteria-tracker.png'>"
+excerpt: "A human-in-the-loop approach to cell detection designed for small-scale use cases
+<br/><img src='../images/bacteria-tracker.png'>"
 collection: portfolio
 ---
 
