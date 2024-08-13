@@ -1,7 +1,7 @@
 ---
 title: "[Washing away greenwashing](https://devpost.com/software/washing-away-greenwashing)"
 excerpt: "Winning entry to University of Toronto's Hack the MIST hackathon using NLP to compare the climate claims of corporations
-[<br/><img src='../images/greenwashing.png' width="200">](http://www.youtube.com/watch?v=axcZArAuShQ)"
+[<br/><img src='../images/greenwashing.png' width='200'>](http://www.youtube.com/watch?v=axcZArAuShQ)"
 collection: portfolio
 ---
 
