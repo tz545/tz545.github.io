@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-04-18-kinetic-cooperativity
 excerpt: 'This paper extends the analysis in our previous paper to the case of simultaneous import and export through the NPC.'
 date: 2024-04-18
-venue: 'Proceedings of the National Academy of Sciences'
+venue: 'Biophysical Journal'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.cell.com/biophysj/abstract/S0006-3495(24)00207-8'
 citation: 'Zheng, T. and Zilman, A., 2024. Kinetic cooperativity resolves bidirectional clogging within the nuclear pore complex. <i>Biophysical Journal, 123(9)</i>, pp.1085-1097.'
