@@ -1,0 +1,7 @@
+---
+title: "[Washing away greenwashing](https://devpost.com/software/washing-away-greenwashing)"
+excerpt: "[![Winning hackathon project using NLP to compare corporations' climate claims](http://img.youtube.com/vi/axcZArAuShQ/0.jpg)](http://www.youtube.com/watch?v=axcZArAuShQ "HackTheMist2023 - HLML - Washing Away GreenWashing")'>"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

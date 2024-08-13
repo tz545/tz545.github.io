@@ -21,7 +21,7 @@ repository               : "tz545/tz545.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/mugshot.png"
+  avatar           : "mugshot.png"
   name             : "Tiantian Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist and Scientist"
