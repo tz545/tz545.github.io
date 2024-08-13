@@ -21,7 +21,7 @@ repository               : "tz545/tz545.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mugshot.png"
   name             : "Tiantian Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist and Scientist"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "linkedin.com/in/tiantian-zheng"
+  linkedin         : "https://www.linkedin.com/in/tiantian-zheng"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -116,7 +116,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

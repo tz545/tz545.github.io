@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[Bacteria Tracker](https://github.com/tz545/bacteria-tracker)"
+excerpt: "A human-in-the-loop approach designed for small-scale applications of cell detection<br/><img src='/images/bacteria-tracker.png'>"
 collection: portfolio
 ---
 
