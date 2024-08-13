@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2020-07-21-molecular-determinants
 excerpt: 'Using a simple biophysical model to understand the import of large cargoes into the nucleus through the NPC. '
 date: 2020-07-21
-venue: 'Journal 1'
+venue: 'eLife'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://elifesciences.org/articles/55963'
 citation: 'Paci, G., Zheng, T., Caria, J., Zilman, A. and Lemke, E.A., 2020. Molecular determinants of large cargo transport into the nucleus. <i>Elife, 9</i>, p.e55963.'
