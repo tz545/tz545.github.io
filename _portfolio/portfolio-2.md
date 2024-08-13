@@ -1,6 +1,6 @@
 ---
 title: "[Washing away greenwashing](https://devpost.com/software/washing-away-greenwashing)"
-excerpt: "[![Winning hackathon project using NLP to compare corporations' climate claims](http://img.youtube.com/vi/axcZArAuShQ/0.jpg)](http://www.youtube.com/watch?v=axcZArAuShQ "HackTheMist2023 - HLML - Washing Away GreenWashing")'>"
+excerpt: "[<br/><img src='../images/greenwashing.png'>](http://www.youtube.com/watch?v=axcZArAuShQ)"
 collection: portfolio
 ---
 
